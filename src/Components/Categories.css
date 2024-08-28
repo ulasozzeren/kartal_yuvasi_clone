@@ -1,0 +1,29 @@
+.categories {
+    padding: 50px 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .categories h2 {
+    margin-bottom: 30px;
+    font-size: 32px;
+  }
+  
+  .category-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .category-item {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  
+  .category-item:hover {
+    transform: scale(1.05);
+  }
+  

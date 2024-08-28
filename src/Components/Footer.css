@@ -1,0 +1,11 @@
+.footer {
+  position: fixed; /* Footer'ı sabitlemek için */
+  bottom: 0; /* Footer'ı sayfanın en altına yerleştirmek için */
+  left: 0;
+  width: 100%; /* Footer'ın genişliğini sayfa genişliği kadar yapmak için */
+  background-color: #090909; /* Arka plan rengi */
+  color: #fff; /* Metin rengi */
+  text-align: center; /* Metni ortalamak için */
+  padding: 10px 0; /* Üst ve alt boşluk */
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.3); /* Hafif bir gölge eklemek için */
+}

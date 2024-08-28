@@ -1,0 +1,33 @@
+.main-banner {
+    background-image: url('/public/forma.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #f35948;
+    padding: 100px 20px;
+    text-align: center;
+  }
+  
+  .main-banner h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .main-banner p {
+    font-size: 24px;
+    margin-bottom: 40px;
+  }
+  
+  .main-banner button {
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .main-banner button:hover {
+    background-color: #ffffff;
+  }
+  
+  
